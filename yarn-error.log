@@ -20,7 +20,7 @@ npm manifest:
     "description": "",
     "main": "functions.js",
     "scripts": {
-      "test": "test"
+      "test": "jest"
     },
     "keywords": [],
     "author": "",
@@ -40,7 +40,7 @@ Trace:
   Error: Command failed.
   Exit code: 1
   Command: sh
-  Arguments: -c test
+  Arguments: -c jest
   Directory: /Users/Lemon/CODE/dev/devmz/testing/unit-testing-jest
   Output:
   
